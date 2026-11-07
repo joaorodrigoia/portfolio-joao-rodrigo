@@ -2,6 +2,8 @@
 
 Portfólio de interfaces digitais, estratégias de conversão e soluções com inteligência artificial. A experiência combina estudos de caso com uma apresentação 3D e transições animadas por scroll.
 
+**Site:** [portfolio-joao-rodrigo.vercel.app](https://portfolio-joao-rodrigo.vercel.app)
+
 ## Tecnologias
 
 - Next.js 16, React 19 e TypeScript
@@ -35,7 +37,7 @@ Para usar o Chrome já instalado ao atualizar a textura, defina `CAPTURE_CHROME_
 
 ## Configuração
 
-`NEXT_PUBLIC_SITE_URL` define o endereço canônico usado pelos metadados, Open Graph, Twitter Cards e sitemap. Em desenvolvimento, a aplicação usa o domínio do portfólio atualmente publicado como valor padrão.
+`NEXT_PUBLIC_SITE_URL` define o endereço canônico usado pelos metadados, Open Graph, Twitter Cards e sitemap. O valor padrão aponta para `https://portfolio-joao-rodrigo.vercel.app`.
 
 ## Estrutura
 

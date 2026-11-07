@@ -12,7 +12,7 @@ import "./evolution.css";
 
 // Absolute-URL base for canonical links, OG/Twitter images, and the sitemap.
 // Env var wins on Vercel previews; falls back to the production domain.
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://lp-joao-rodrigo.vercel.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://portfolio-joao-rodrigo.vercel.app";
 
 const plusJakartaSans = Plus_Jakarta_Sans({
   subsets: ["latin"],
